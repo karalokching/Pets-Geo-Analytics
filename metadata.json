@@ -1,0 +1,7 @@
+{
+  "name": "Q-Pets Geo-Analytics",
+  "description": "A customer location intelligence dashboard for Q-Pets. Upload sales CSV data to visualize district distribution, analyze sales performance, and explore location details using Gemini AI with Google Maps Grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
